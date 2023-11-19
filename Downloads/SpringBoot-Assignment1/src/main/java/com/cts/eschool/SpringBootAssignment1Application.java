@@ -24,8 +24,6 @@ public class SpringBootAssignment1Application {
 		
 		ss.deleteStudentDetailsByID(404);
 		
-		//ss.destroy();
-		
 		ss.getAllStudentDetails();
 	}
 
